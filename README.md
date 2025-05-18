@@ -41,7 +41,7 @@ Criar uma visualização clara e interativa sobre:
 
 ---
 
-## 👀 Como visualizar
+##  Como visualizar
 
 1. Faça o download do arquivo `.pbix`
 2. Abra com o Power BI Desktop
